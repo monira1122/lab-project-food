@@ -9,7 +9,7 @@
 <body>
     <header>
         <div class="navbar">
-            <div class="logo">Online Food Ordering System MKS</div>
+            <div class="logo">MKS</div>
             <nav>
                 <ul>
                     <li><a href="#">Home</a></li>
